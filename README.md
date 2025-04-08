@@ -1,3 +1,5 @@
-# Skateboard_Website_wMedia
+# Skateboard_Website
 
-This is the skateboarding website with all media included
+Mikell Wells
+
+This is a website designed for beginner level people in skateboarding
